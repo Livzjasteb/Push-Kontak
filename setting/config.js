@@ -1,15 +1,15 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.owner = ["6285742632270"];
+global.owner = ["6283176793414"];
 global.author = "RezaDevv";
-global.packname = "Push-Kontak";
+global.packname = "Botz-Zyy";
 global.sessionName = "Bot-Session";
 global.versionbot = "1.2.0";
 global.mess = {
-    wait: "Loading...",
+    wait: "Loading...om",
     success: "Operation Sucessfull!",
-    owner: "Fitur Khusus Owner Bot",
+    owner: "Fitur Khusus Owner Zy",
     waitdata: "Melihat Data Terkini...",
     admin: "Fitur Khusus Admin Group!",
     private: "Fitur Khusus Private Chat!",
